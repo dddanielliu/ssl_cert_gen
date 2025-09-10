@@ -1,0 +1,3 @@
+[submodule "cert_gen/dehydrated"]
+	path = cert_gen/dehydrated
+	url = https://github.com/dehydrated-io/dehydrated.git
